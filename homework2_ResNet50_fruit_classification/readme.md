@@ -3,7 +3,7 @@
 
 
 >contents
->> RTMdet检测算法评估指标
+>> Resnet50_finetune结果
 >>> 指标截图 <br>
 >>> config <br>
 >>> model_link <br>
