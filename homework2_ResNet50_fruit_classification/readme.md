@@ -3,8 +3,7 @@
 
 
 >contents
->> Resnet50_finetune结果
->>> 指标截图 <br>
->>> config <br>
->>> model_link <br>
->>> 网上水果预测 <br>
+>> 指标截图 <br>
+>> config <br>
+>> model_link <br>
+>> 网上水果预测 <br>
