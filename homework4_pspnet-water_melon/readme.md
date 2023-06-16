@@ -3,4 +3,5 @@
 >contents
 >> Metric on validation data <br>
 >> Config on water_melon dataset <br>
->> Visualization result <BR>
+>> Visualization result <br>
+>> model link <br>
